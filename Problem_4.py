@@ -40,9 +40,9 @@ plt.title("plot of the power spectrum ",size=16)
 plt.show()
 
 """ c """
-print("The minimum value of the wavevector k= ",min(freq))
+print("The minimum value of the wavevector(frequency) k= ",min(freq))
 
-print("The maximum value of the wavevector k= ",max(freq))
+print("The maximum value of the wavevector(frequency) k= ",max(freq))
 
 """ d """
 
